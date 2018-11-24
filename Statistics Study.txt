@@ -1,0 +1,13 @@
+1. Telcom Churn Rate
+
+2. Wine Reviews
+	- Separate Wines in different price categories and use ANOVA to check if they come from different distributions.
+		- Check means firts.
+
+3. Google Play Store Apps
+	- Do free apps have lower ratings?
+		- Can use ANOVA or the Student's t-test.
+
+4. Speed Dating Experiment
+
+5. Video Game Sales with Reviews
